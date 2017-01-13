@@ -1,3 +1,4 @@
+//the code has been written by Daljit Singh Bhalla using Object oriented programming for  fundamental transformations of object in 3-D space 
 #include<graphics.h>
 #include<iostream>
 #include<math.h>
